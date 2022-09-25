@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:ital,wght@0,100;0,200;1,100&display=swap');
+.col{
+    background-color: limegreen;
+    height: 50px;
+    
+}
+.col{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left{
+    display: flex;
+    margin-left: 30px;
+    padding: 10px;
+}
+.right{
+    display: flex;
+    margin-right: 60px;
+    padding: 10px;
+}
+.loggin{
+    display: flex;
+    margin-left: 30px;
+}
+i{
+    padding: 3px;
+}
+.loggin-text{
+    margin-right: 30px;
+}
+.nav{
+    background-color:white;
+    height: 70px;
+   
+}
+.logo{
+    margin-left: 30px;
+   
+}
+.menu{
+    position: absolute;
+    right: 60px;
+}
+.container{
+    height: 300px;
+    background-color:white;
+    margin-bottom:20px;
+    
+}
+.mt-3{
+    font-family: 'Montserrat', sans-serif;
+}
+.banner{
+    height: 400px;
+    margin-bottom: 20px;
+}
+.banner img{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.icon{
+   
+    display: inline-block;
+    padding: 5px;
+    margin: auto ;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+    
+}
+.item{
+    margin-top: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+   line-height: 30px;
+}
+.img{
+    width: 40px;
+    height: 40px;
+    
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right:10px ;
+    float: left;
+}
+.text-tour{
+   background-color: white;
+   
+    
+}
+.t{
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    margin-top: 30px;
+    
+}
+.card{
+    margin: auto;
+}
+.col-lg-4{
+    margin: auto;
+    margin-top: 40px;
+}
+.product{
+  
+   margin-top: 50px;
+    margin-bottom: 10px;
+}
+.can{
+    margin-bottom: 10px;
+}
+.price{
+    position: absolute;
+    top: 162px;
+    right: 0px;
+    padding: 2px;
+    background-color:#545b6673;
+    border-radius: 5px;
+    color: white;
+}
+.t1,.t2{
+    display: inline;
+   
+}
+.banner-2{
+    height: 300px;
+    width: 100%;
+}
+.banner-2 img{
+    height: 300px;
+   
+    width: 100%;
+    object-fit: cover;
+}
+.fa-trophy{
+    color: white;
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    padding-left: 11px;
+    padding-top: 12px;
+    border-radius: 3px;
+
+    
+}
+.iconpr{
+    display: flex;
+    justify-content: center;
+}
+.text0-pr{
+    color: orange;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.text1-pr{
+    text-align: center;
+}
+.pr{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    
+    
+}
+.pr2{
+    margin-top: -30px;
+    
+}
+.banner-3{
+    height: 400px;
+    margin-top: 100px;
+}
+.banner-3 img{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+.col-lg-12{
+   
+}
+.nav-link{
+    color: green;
+    font-size: 18px;
+    font-weight: 500;
+}
+.right a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+.left  p{
+    color: white;
+    font-weight: 500;
+}
+.left i{
+    color: white;
+}
